@@ -36,6 +36,11 @@ echo $cocaCola->color . '<br>';
 echo $cocaCola->price . '<br>';
 echo $cocaCola->temperature . '<br>';
 echo $cocaCola->getInfo() . '<br>';
+?>
+
+<?php 
+// EXERCICE OOP 2
+
 
 
 ?>
